@@ -15,15 +15,15 @@ h1 {
 }
 
 .container {
-    height: 60vmin;
+    height: 50vmin;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
 .game {
-    height: 60vmin;
-    width: 60vmin;
+    height: 50vmin;
+    width: 50vmin;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
