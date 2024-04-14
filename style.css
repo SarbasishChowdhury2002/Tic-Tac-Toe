@@ -15,7 +15,7 @@ h1 {
 }
 
 .container {
-    height: 50vmin;
+    height: 60vmin;
     display: flex;
     justify-content: center;
     align-items: center;
